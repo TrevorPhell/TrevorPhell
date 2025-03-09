@@ -13,13 +13,19 @@ header {
   background-color: #1e1e1e;
   padding: 20px;
 }
+header h1{
+  color: bisque;
+}
 nav ul {
   list-style: none;
   padding: 0;
+  color: wheat;
 }
 nav ul li {
   display: inline;
   margin: 0 15px;
+  
+  
 }
 nav ul li a {
   color: #ffffff;
